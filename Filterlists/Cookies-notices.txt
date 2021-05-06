@@ -1,0 +1,7 @@
+! ------- Cookie notices -------
+##.gdpr-cookie-layer
+##div[id="privacy-consent"]
+blog.discord.com##.vm
+www.yubico.com##.bottom-pop-up-container
+endeavouros.com##.obfx-cookie-bar
+next.ibood.com##div[data-testid="cookie-banner"]
