@@ -1,0 +1,32 @@
+! ------- Annoyances -------
+###WIX_ADS
+bol.com,buienradar.nl,omroepgelderland.nl,nl.pepper.com##body:style(overflow: visible !important;)
+buienradar.nl##.onboard-background
+buienradar.nl##div[class="onboard-popup-container"]
+f95zone.to##.js-offCanvasNavSource.p-nav-list > li:nth-of-type(6), .js-offCanvasNavSource.p-nav-list > li:nth-of-type(7)
+fandom.com##.WikiaBarWrapper
+gamerguides.com##.spons
+instagram.com##.Yx5HN.RnEpo
+pepper.com##.zIndex--fixed.popover-cover
+||techpowerup.com/thlknzrjbv/
+techradar.com##.van_vid_carousel
+
+! [google.*]
+! Google consent, "before you continue"
+www.google.*##^script:has-text(consentCookiePayload)
+www.google.*##+js(acis, document.cookie, YES+)
+google.*##+js(aeld, DOMContentLoaded, CONSENT)
+! google.*##.widget-consent-fullscreen.widget-consent
+
+! [youtube.com]
+youtube.com###interstitial
+! Replace YouTube embedded iframes with a click-to-load redirect.
+! ||youtube.com^$3p,frame,redirect=click2load.html
+! ||youtube-nocookie.com^$3p,frame,redirect=click2load.html
+! Block and hide YouTube Consent and login dialog.
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
+youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
+youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
+youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
