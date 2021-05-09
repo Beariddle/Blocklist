@@ -1,4 +1,5 @@
 ! ------- Cookie notices -------
+##.cookie-message-wrapper
 ##.gdpr-cookie-layer
 ##div[id="privacy-consent"]
 blog.discord.com##.vm
