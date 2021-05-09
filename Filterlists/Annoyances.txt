@@ -3,7 +3,7 @@
 bol.com,buienradar.nl,omroepgelderland.nl,nl.pepper.com##body:style(overflow: visible !important;)
 buienradar.nl##.onboard-background
 buienradar.nl##div[class="onboard-popup-container"]
-f95zone.to##.js-offCanvasNavSource.p-nav-list > li:nth-of-type(6), .js-offCanvasNavSource.p-nav-list > li:nth-of-type(7)
+f95zone.to##.js-offCanvasNavSource.p-nav-list > li:nth-of-type(n+4):nth-child(-n+7)
 fandom.com##.WikiaBarWrapper
 gamerguides.com##.spons
 instagram.com##.Yx5HN.RnEpo
