@@ -1,6 +1,3 @@
-! Block ping (hyperlink auditing & sending beacons).
-*$ping
-
 ! Block insecure third-party content except stylesheet, image and media.
 ! Only allow third-party passive content on HTTP-websites.
 |HTTP://$third-party,~stylesheet,~image,~media
