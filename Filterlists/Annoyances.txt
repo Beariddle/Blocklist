@@ -6,6 +6,7 @@ buienradar.nl##div[class="onboard-popup-container"]
 f95zone.to##a[data-nav-id="Nutaku"]
 f95zone.to##a[data-nav-id="LiveSexCams"]
 f95zone.to##a[data-nav-id="ThePornDude"]
+f95zone.to##a[data-nav-id="LiveCamGirls"]
 fandom.com##.WikiaBarWrapper
 gamerguides.com##.spons
 instagram.com##.Yx5HN.RnEpo
@@ -22,9 +23,6 @@ google.*##+js(aeld, DOMContentLoaded, CONSENT)
 
 ! [youtube.com]
 youtube.com###interstitial
-! Replace YouTube embedded iframes with a click-to-load redirect.
-! ||youtube.com^$3p,frame,redirect=click2load.html
-! ||youtube-nocookie.com^$3p,frame,redirect=click2load.html
 ! Block and hide YouTube Consent and login dialog.
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
 youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
