@@ -1,5 +1,4 @@
 ! ------- Cookie notices -------
-##.cookie-message-wrapper
 ##.cookie
 ##.gdpr-cookie-layer
 ##.show.cookies
