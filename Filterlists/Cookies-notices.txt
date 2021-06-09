@@ -2,8 +2,11 @@
 ##.cookie
 ##.gdpr-cookie-layer
 ##.show.cookies
+###__next div[data-testid*="cookie-banner"]
 ##div[id="privacy-consent"]
-blog.discord.com##.uj.ww.wv.wu.wt.ws.wr.wq.wp.wo.wn.wm.gw.wl.wk.wj.wi.wh.wg.wf.we.wd.wc.wb.wa.vz.vy.vx.vw.vv.vu.aj.vt.jy.u.jw
+amazon.*###sp-cc
+blog.discord.com##div[class]:has(a[href^="https://policy.medium.com/medium-privacy-policy-"])
 endeavouros.com##.obfx-cookie-bar
 next.ibood.com##div[data-testid="cookie-banner"]
+praxis.nl##.mxd-new-cookie-bar
 yubico.com##.bottom-pop-up-container
