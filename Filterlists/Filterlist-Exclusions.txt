@@ -1,0 +1,7 @@
+! ----- Filterlist Exclusions: AdGuard Annoyances -----
+@@||salesiq.zoho.com/widget$domain=macrium.com
+@@||powr.io^$3p,domain=florianbur.co
+
+! ----- Filterlist Exclusions: EasyPrivacy -----
+@@/scripts/tracking.js^$domain=gls-info.nl
+@@||widget.trustpilot.com^$3p
