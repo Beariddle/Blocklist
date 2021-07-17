@@ -1,9 +1,10 @@
-! Title: Beariddle Nuisances
-! Expires: 4 days
-! Description: Personal filterlist for use in uBlock Origin using !#include syntax.
+! Title        : Beariddle Nuisances
+! Expires      : 4 days
+! Description  : Personal filterlist for use in uBlock Origin using !#include syntax.
 ! Homepage     : https://github.com/Beariddle/Blocklist
 ! GitHub Issues: https://github.com/Beariddle/Blocklist/issues
 
 !#include Filterlists/Security.txt
 !#include Filterlists/Cookies-notices.txt
 !#include Filterlists/Annoyances.txt
+!#include Filterlists/Filterlist-Exclusions.txt
