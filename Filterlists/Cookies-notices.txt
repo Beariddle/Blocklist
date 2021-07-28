@@ -1,6 +1,8 @@
 ! ------- Cookie notices -------
 ##.cookie
+##.cookies
 ##.gdpr-cookie-layer
+##.notice_cookies
 ##.show.cookies
 ###__next div[data-testid*="cookie-banner"]
 ##div[id="privacy-consent"]
