@@ -2,32 +2,7 @@
 ! Only allow third-party passive content on HTTP-websites.
 |HTTP://$third-party,~stylesheet,~image,~media
 
-! Block the most abused Top Level Domains.
-! The Spamhaus Project - The top 10 most abused TLDs.
-! Updated - 05 May 2021
-||asia^
-||surf^
-||date^
-||gq^
-||top^
-||ml^
-||cam^
-||bar^
-||icu^
-! Additional abused TLDs
-||buzz^
-||cf^
-||tk^
-! Additional TLDs taken from NEXTDNS 'most abused TLD' LIST.
-||email^
-||recipes^
-||cn^
-||ga^
-||rest^
-
 ! ------- Tracking -------
-/matomo.js
-/piwik.js
 ! Block CNAME trackers not covered by EasyPrivacy.
 /b/ss/*&age=
 /id?d_visid_ver=$~xmlhttprequest
