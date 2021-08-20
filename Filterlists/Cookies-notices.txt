@@ -12,3 +12,6 @@ endeavouros.com##.obfx-cookie-bar
 next.ibood.com##div[data-testid="cookie-banner"]
 praxis.nl##.mxd-new-cookie-bar
 yubico.com##.bottom-pop-up-container
+
+! ------- Cookie notice exclusions -------
+whimsubs.xyz#@#.cookies
