@@ -1,6 +1,7 @@
 ! ------- Cookie notices -------
 ##.cookie
 ##.cookies
+###cookie_private
 ##.gdpr-cookie-layer
 ##.notice_cookies
 ##.show.cookies
