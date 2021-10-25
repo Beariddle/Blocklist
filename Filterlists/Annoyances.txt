@@ -13,6 +13,7 @@ gamerguides.com##.spons
 parool.nl,trouw.nl##.hifXghgg
 instagram.com##.Yx5HN.RnEpo
 pepper.com##.zIndex--fixed.popover-cover
+techpowerup.com##div.mnnusjsddg.sidebar-item
 
 
 ! [google.*]
