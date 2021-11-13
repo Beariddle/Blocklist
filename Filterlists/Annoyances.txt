@@ -10,11 +10,11 @@ f95zone.to##a[data-nav-id="ThePornDude"]
 f95zone.to##a[data-nav-id="LiveCamGirls"]
 fandom.com##.WikiaBarWrapper
 gamerguides.com##.spons
-parool.nl,trouw.nl##.hifXghgg
 instagram.com##.Yx5HN.RnEpo
+parool.nl,trouw.nl##.hifXghgg
 pepper.com##.zIndex--fixed.popover-cover
+reddit.com##._1CRxXSvUhagxkF2Z5KeFSg
 techpowerup.com##div.mnnusjsddg.sidebar-item
-
 
 ! [google.*]
 ! Google consent, "before you continue"
