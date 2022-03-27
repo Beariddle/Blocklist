@@ -1,0 +1,10 @@
+! ------- Advertisments -------
+###WIX_ADS
+hwinfo.com##.download > div[class^="xds"]
+nu.nl##.Tealium
+nu.nl##a[data-type="advertorial"]
+nu.nl##a[href*="/advertorial-"]
+nu.nl###header > .zone
+nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
+nu.nl##.block.advertoriallist
+nu.nl##.section-mediapartner-external.source-normal
