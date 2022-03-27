@@ -4,6 +4,7 @@
 ! Homepage     : https://github.com/Beariddle/Blocklist
 ! GitHub Issues: https://github.com/Beariddle/Blocklist/issues
 
+!#include Filterlists/Advertisements.txt
 !#include Filterlists/Security.txt
 !#include Filterlists/Cookies-notices.txt
 !#include Filterlists/Annoyances.txt
