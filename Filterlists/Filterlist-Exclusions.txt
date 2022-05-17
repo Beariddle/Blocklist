@@ -1,6 +1,3 @@
-! ------- Cookie notice exclusions -------
-whimsubs.xyz#@#.cookies
-
 ! ----- Filterlist Exclusions: AdGuard Annoyances -----
 @@||salesiq.zoho.com/widget$domain=macrium.com
 @@||powr.io^$3p,domain=florianbur.co
