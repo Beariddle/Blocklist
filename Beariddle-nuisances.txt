@@ -3,6 +3,7 @@
 ! Description  : Personal filterlist for use in uBlock Origin using !#include syntax.
 ! Homepage     : https://github.com/Beariddle/Blocklist
 ! GitHub Issues: https://github.com/Beariddle/Blocklist/issues
+! Licence      : https://github.com/Beariddle/Blocklist/blob/main/LICENSE.md
 
 !#include Filterlists/Advertisements.txt
 !#include Filterlists/Security.txt
