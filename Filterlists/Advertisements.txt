@@ -8,3 +8,4 @@ nu.nl###header > .zone
 nu.nl##div.articlelist[data-section="advertorial-belastingdienst-adverteerder"]
 nu.nl##.block.advertoriallist
 nu.nl##.section-mediapartner-external.source-normal
+ghacks.net##.ghacks-links--nounderline.mt--first--0.mt--30.ghacks_ad_code.widget
