@@ -1,5 +1,4 @@
 ! ------- Annoyances -------
-@@/sailthru.js$script,domain=rainmail.xyz
 ||newtoki*.com/tokinbtoki/*.gif?_=
 ||newtoki*.com/data/banner/
 bol.com,buienradar.nl,omroepgelderland.nl,nl.pepper.com##body:style(overflow: visible !important;)
