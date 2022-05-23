@@ -3,6 +3,9 @@
 @@||powr.io^$3p,domain=florianbur.co
 @@||salesiq.zoho.com/widget$domain=macrium.com
 
+! ----- Filterlist Exclusions: EasyList -----
+@@/sailthru.js$script,domain=rainmail.xyz
+
 ! ----- Filterlist Exclusions: EasyPrivacy -----
 @@/scripts/tracking.js^$domain=gls-info.nl
 @@||widget.trustpilot.com^$3p
