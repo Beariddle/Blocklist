@@ -1,4 +1,6 @@
 ! ----- Filterlist Exclusions: AdGuard Annoyances -----
+@@/cookiebar.$1p,domain=tweakers.net
+@@/cookie-consent/*$1p,domain=tweakers.net
 @@||api.userlike.com/api/um/chat/$script,domain=european-alternatives.eu
 @@||powr.io^$3p,domain=florianbur.co
 @@||salesiq.zoho.com/widget$domain=macrium.com
