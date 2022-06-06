@@ -9,3 +9,4 @@
 ! ----- Filterlist Exclusions: EasyPrivacy -----
 @@/scripts/tracking.js^$domain=gls-info.nl
 @@||widget.trustpilot.com^$3p
+@@||useinsider.com^$3p,domain=ibood.com
