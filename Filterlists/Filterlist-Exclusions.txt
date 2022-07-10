@@ -4,6 +4,15 @@
 @@||api.userlike.com/api/um/chat/$script,domain=european-alternatives.eu
 @@||powr.io^$3p,domain=florianbur.co
 @@||salesiq.zoho.com/widget$domain=macrium.com
+@@||userlike.com^$3p,domain=european-alternatives.eu
+
+! AdGuard URL Tracker Protection
+@@||pixel.adsafeprotected.com/services/pub?$removeparam=slot,domain=reuters.com
+@@||pixel.adsafeprotected.com/services/pub?$removeparam=sessionId,domain=reuters.com
+@@||pixel.adsafeprotected.com/services/pub?$removeparam=anId,domain=reuters.com
+@@||pixel.adsafeprotected.com/services/pub?$removeparam=wr,domain=reuters.com
+@@||pixel.adsafeprotected.com/services/pub?$removeparam=sr,domain=reuters.com
+@@||pixel.adsafeprotected.com/services/pub?$removeparam=url,domain=reuters.com
 
 ! ----- Filterlist Exclusions: EasyList -----
 @@/sailthru.js$script,domain=rainmail.xyz
@@ -12,3 +21,7 @@
 @@/scripts/tracking.js^$domain=gls-info.nl
 @@||widget.trustpilot.com^$3p
 @@||useinsider.com^$3p,domain=ibood.com
+
+! stevenblack/hosts
+@@||cdn.segment.com^$3p,domain=reuters.com
+@@||api.segment.io^$3p,domain=reuters.com
